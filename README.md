@@ -24,7 +24,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [github repo](https://github.com/thebefast6239/product-preview-card-component-main)
-- Live Site URL: [github io](https://github.io/thebefast6239/product-preview-card-component-main)
+- Live Site URL: [github io](https://thebefast6239.github.io/product-preview-card-component-main/)
 
 ## My process
 
